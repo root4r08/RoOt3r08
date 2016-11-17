@@ -1,10 +1,10 @@
-# bombusmod
+# root3r08
 ```
 ترمینال لینوگس باز میکنی . 
 ```
 بعد میزنی یه یوزر میسازی اینجوری
 ```
-sudo adduser yagop 
+sudo adduser root3r08 
 ```
 بعد رمز میخاد ازت دوبار میزنی رمزتو
 ```
@@ -16,7 +16,7 @@ sudo adduser yagop
 ```
 بعد وارد یوزرت شو با
 ```
-login yagop
+login root3r08
 ```
 بعد رمز میخاد بزن
 ```
@@ -26,9 +26,9 @@ login yagop
 ```
 cd $HOME
 ```
-git clone https://github.com/goblinor/BomBus1.git
+git clone https://github.com/root4r08/root3r08.git
 ```
-cd BomBus1
+cd root3r08
 ```
 ```
 ```
