@@ -56,7 +56,7 @@ wlc : خوش آمد | 📝
 bye : خداحافظی | 🖐
 username : نام کاربری | @
 ____________________
-Channel : @NTFLIGHT 🎗
+DEVELOPER : @root3r08 🎗
 
 ]]
 end
