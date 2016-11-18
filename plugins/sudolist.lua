@@ -15,7 +15,7 @@ do
 local function yagop(msg, matches)
 if is_sudo(msg) and matches[1]== "sudo" then
 return [[
-🃏🔱 BOMBUSMOD 🔱🃏
+🃏🔱 root3r08 🔱🃏
 ________________________
 /addbot :: بوت فعال | 📢
 /rembot :: بوت غیرفعال | 🔕
@@ -38,7 +38,7 @@ ________________________
 /p - مشخصات | ✖️
 /clean + بررسی پیام :: عدد | 🔱
 ________________________
-@Yagop🔹سازنده]]
+@root3r08🔹سازنده]]
 end
 
 if not is_momod(msg) then
